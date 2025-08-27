@@ -42,7 +42,7 @@
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-17" target="0ERIzr-w7Vvwdi_B4jdV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-19" value="&lt;div&gt;vch_token_nxt对应的rcmd数据是否返回&lt;/div&gt;&lt;div&gt;vch_token对应的rcmd数据是否返回&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="740" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-8" target="0ERIzr-w7Vvwdi_B4jdV-19">
