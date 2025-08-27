@@ -384,11 +384,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-133" value="vch_token_num_hpr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-133" value="imc_subf_fifo中保存了一个axi_burst数据且未被取走" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="1090" width="370" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-134" value="vch_token_num_lpr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="1123.75" width="170" height="22.5" as="geometry" />
+          <mxGeometry x="-500" y="1123.75" width="370" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-135" value="1&amp;nbsp; &amp;nbsp; 0" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-89" y="1106.25" width="60" height="27.5" as="geometry" />
