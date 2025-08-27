@@ -48,7 +48,7 @@
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-19" value="&lt;div&gt;vch_token_nxt对应的rcmd数据是否返回&lt;/div&gt;&lt;div&gt;vch_token对应的rcmd数据是否返回&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="740" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0ERIzr-w7Vvwdi_B4jdV-19">
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-23" target="0ERIzr-w7Vvwdi_B4jdV-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="145" as="sourcePoint" />
             <Array as="points">
@@ -61,10 +61,16 @@
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-21" value="vch_valid_hpr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="785" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="809" y="115" width="120" height="60" as="geometry" />
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-23" value="vch_token" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="130" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-8" target="0ERIzr-w7Vvwdi_B4jdV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-25" value="vch_token_nxt" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="204.5" width="99" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-9" target="0ERIzr-w7Vvwdi_B4jdV-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
