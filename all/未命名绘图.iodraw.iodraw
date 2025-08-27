@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="24.7.17">
   <diagram name="第 1 页" id="JWKYEkDwas0z8o8uoIWt">
-    <mxGraphModel dx="2608" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2807" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,8 @@
             <Array as="points">
               <mxPoint x="980" y="145" />
               <mxPoint x="980" y="-20" />
-              <mxPoint x="-830" y="-20" />
+              <mxPoint x="-1220" y="-20" />
+              <mxPoint x="-1220" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -67,11 +68,25 @@
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-8" target="0ERIzr-w7Vvwdi_B4jdV-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="979.9999999999995" y="139.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-25" value="vch_token_nxt" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="204.5" width="99" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-9" target="0ERIzr-w7Vvwdi_B4jdV-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-29" target="0ERIzr-w7Vvwdi_B4jdV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-29" value="&lt;div&gt;vch_token_nxt对应的rcmd数据是否返回&lt;/div&gt;&lt;div&gt;vch_token对应的rcmd数据是否返回&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="920" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-30" value="vch_valid_hpr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="965" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
