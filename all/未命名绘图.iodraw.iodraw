@@ -379,22 +379,53 @@
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-133" target="0ERIzr-w7Vvwdi_B4jdV-135">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-101" y="1101.25" />
-              <mxPoint x="-101" y="1105.25" />
+              <mxPoint x="-101" y="1096.25" />
+              <mxPoint x="-101" y="1100.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-133" value="imc_subf_fifo中保存了一个axi_burst数据且未被取走" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="1090" width="370" height="22.5" as="geometry" />
+          <mxGeometry x="-500" y="1085" width="370" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-134" value="vch_token_num_lpr" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="1123.75" width="370" height="22.5" as="geometry" />
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-134" value="imc_subf_fifo非空" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="1118.75" width="370" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-135" value="1&amp;nbsp; &amp;nbsp; 0" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-89" y="1106.25" width="60" height="27.5" as="geometry" />
+          <mxGeometry x="-89" y="1101.25" width="60" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="0ERIzr-w7Vvwdi_B4jdV-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.632;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-134" target="0ERIzr-w7Vvwdi_B4jdV-135">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-135" target="0ERIzr-w7Vvwdi_B4jdV-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-139" value="reg_rid_intlv_dis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="1040" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-141" target="0ERIzr-w7Vvwdi_B4jdV-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-91" y="1106.25" />
+              <mxPoint x="-91" y="1110.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-141" value="imc_subf_fifo中保存了一个axi_burst数据且未被取走" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1095" width="370" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-142" value="imc_subf_fifo非空" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1128.75" width="370" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-143" value="1&amp;nbsp; &amp;nbsp; 0" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-79" y="1111.25" width="60" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.632;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-142" target="0ERIzr-w7Vvwdi_B4jdV-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERIzr-w7Vvwdi_B4jdV-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0ERIzr-w7Vvwdi_B4jdV-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="73" y="1125" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
