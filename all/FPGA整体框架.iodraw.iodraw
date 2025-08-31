@@ -242,7 +242,7 @@
         </mxCell>
         <mxCell id="6TaWMB4H64OcAF_bUUIk-51" value="uart_tx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6TaWMB4H64OcAF_bUUIk-50">
           <mxGeometry x="0.325" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
