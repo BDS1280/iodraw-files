@@ -178,7 +178,11 @@
         </mxCell>
         <mxCell id="6TaWMB4H64OcAF_bUUIk-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6TaWMB4H64OcAF_bUUIk-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="480" as="targetPoint" />
+            <mxPoint x="850" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1073" y="330" />
+              <mxPoint x="851" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6TaWMB4H64OcAF_bUUIk-38" value="Speaker_recognition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
