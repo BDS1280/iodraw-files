@@ -173,7 +173,7 @@
         <mxCell id="6TaWMB4H64OcAF_bUUIk-35" value="Multi_sound_separation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675.25" y="30" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6TaWMB4H64OcAF_bUUIk-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6TaWMB4H64OcAF_bUUIk-37" value="Merge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="635" y="-70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
