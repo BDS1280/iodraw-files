@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6TaWMB4H64OcAF_bUUIk-44" value="UART" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="762" y="431" width="120" height="60" as="geometry" />
+          <mxGeometry x="865.25" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
