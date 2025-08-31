@@ -240,9 +240,15 @@
             <mxPoint x="920" y="571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6TaWMB4H64OcAF_bUUIk-51" value="uart_tx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6TaWMB4H64OcAF_bUUIk-50">
+        <mxCell id="6TaWMB4H64OcAF_bUUIk-51" value="uart_rx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6TaWMB4H64OcAF_bUUIk-50">
           <mxGeometry x="0.325" y="1" relative="1" as="geometry">
             <mxPoint y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TaWMB4H64OcAF_bUUIk-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="310" as="sourcePoint" />
+            <mxPoint x="660" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
