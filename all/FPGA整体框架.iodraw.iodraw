@@ -119,6 +119,9 @@
             <mxPoint x="40" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6TaWMB4H64OcAF_bUUIk-25" value="Sound_echo_reduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="210" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
