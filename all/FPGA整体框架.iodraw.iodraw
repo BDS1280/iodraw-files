@@ -256,13 +256,13 @@
         </mxCell>
         <mxCell id="6TaWMB4H64OcAF_bUUIk-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="179.5" y="570" as="sourcePoint" />
-            <mxPoint x="179.5" y="510" as="targetPoint" />
+            <mxPoint x="1199.5" y="491" as="sourcePoint" />
+            <mxPoint x="1199.5" y="551" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6TaWMB4H64OcAF_bUUIk-55" value="i2s_lclk/i2s_sck/i2s_sdin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6TaWMB4H64OcAF_bUUIk-54">
           <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
